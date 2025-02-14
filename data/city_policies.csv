@@ -1,0 +1,516 @@
+City,State,Requires De-Escalation,Bans Chokeholds and Strangleholds,Duty to Intervene,Requires Warning Before Shooting,Restricts Shooting at Moving Vehicles,Requires Comprehensive Reporting,Requires Exhaust All Other Means Before Shooting,Has Use of Force Continuum
+Abbeville,LA,0,1,0,1,0,0,0,0
+Acton,MA,0,0,1,1,1,1,0,1
+Akron,OH,0,1,1,1,0,0,0,0
+Alameda,CA,0,1,1,1,0,0,0,0
+Albany,OR,1,1,1,0,1,1,0,1
+Albany,GA,0,0,0,1,1,0,0,1
+Albemarle,NC,1,0,1,0,0,1,1,1
+Albuquerque,NM,1,1,1,1,1,1,0,0
+Alexandria,VA,0,1,1,0,1,0,1,1
+Alhambra,CA,1,1,1,1,0,0,0,0
+Allentown,PA,1,1,0,1,0,0,0,1
+Anaheim,CA,1,1,1,1,0,0,0,1
+Anchorage,AK,0,0,0,1,1,0,0,1
+Ann Arbor,MI,0,0,1,0,0,1,0,1
+Antioch,CA,0,1,1,1,0,0,0,0
+Appleton,WI,1,0,1,1,0,0,0,1
+Arcadia,CA,1,1,1,1,0,0,0,0
+Arlington,TX,1,1,1,1,0,1,1,1
+Arlington County,VA,1,1,1,1,0,1,1,1
+Arroyo Grande,CA,0,1,1,1,0,0,0,0
+Arvin,CA,1,1,1,0,0,0,0,0
+Atlanta,GA,1,1,1,1,0,1,0,1
+Atwater,CA,1,1,1,1,0,0,0,0
+Auburn,NY,1,1,1,1,0,0,0,0
+Auburn,CA,0,1,1,1,0,0,0,1
+Aurora,CO,1,1,1,1,1,1,1,1
+Austin,TX,1,1,1,0,0,0,0,1
+Azusa,CA,1,1,1,1,0,0,0,0
+Bainbridge Island,WA,1,1,1,1,0,0,1,0
+Bakersfield,CA,1,1,1,1,0,0,0,0
+Baltimore,MD,1,1,1,0,1,1,1,0
+Baltimore County,MD,1,1,1,1,0,0,1,1
+Bangor,ME,1,1,1,0,0,0,0,1
+Barstow,CA,1,1,1,1,0,0,0,0
+Baton Rouge,LA,0,1,1,1,0,0,1,1
+Bay City,MI,0,1,1,1,0,0,0,1
+Beaverton,OR,1,1,1,1,0,1,0,1
+Bellevue,WA,0,0,0,0,0,1,0,0
+Bellingham,WA,1,1,1,0,0,0,1,0
+Belmont,CA,1,1,1,1,0,0,0,0
+Beloit,WI,0,0,1,1,0,0,0,0
+Berkeley,CA,0,1,1,1,0,0,0,1
+Bethlehem,PA,0,1,1,1,0,1,0,0
+Beverly Hills,CA,0,1,1,1,0,0,1,1
+Bexley,OH,1,1,1,1,1,1,1,1
+Birmingham,AL,0,1,1,0,0,0,0,1
+Bloomfield,NJ,1,1,1,1,1,1,1,1
+Boca Raton,FL,1,1,1,0,0,0,0,1
+Boise,ID,1,0,0,1,0,0,0,0
+Boston,MA,1,1,1,0,0,0,1,1
+Bothell,WA,1,1,1,1,0,1,1,0
+Boulder,CO,1,1,1,1,0,1,1,1
+Brawley,CA,1,1,1,1,0,0,0,1
+Brea,CA,0,1,1,1,0,0,0,0
+Brentwood,CA,0,1,0,0,0,0,0,0
+Brick,NJ,1,1,1,1,1,1,1,1
+Bridgeport,CT,1,1,1,1,0,1,0,1
+Bridgewater,NJ,1,1,1,1,1,1,1,1
+Brookline,MA,1,0,1,1,0,0,0,1
+Brooklyn Center,MN,0,1,1,0,0,0,0,0
+Broward Sheriff'S Office,FL,1,0,0,1,1,1,0,1
+Buena Park,CA,0,1,1,1,0,0,0,0
+Buffalo,NY,1,1,0,0,1,0,1,1
+Burbank,CA,1,1,1,1,1,0,0,0
+Burleson,TX,0,1,1,1,0,0,0,0
+Burlingame,CA,1,1,1,1,0,0,0,0
+Burlington,VT,1,1,1,1,0,1,1,1
+Burlington ,NJ,1,1,1,1,1,1,1,1
+Burnsville,MN,0,1,1,0,0,0,0,0
+Butte,CA,0,1,0,1,0,0,0,1
+Calaveras,CA,0,1,1,1,0,0,0,0
+Cambridge,MA,0,1,1,1,0,1,0,0
+Canton,OH,1,1,1,1,1,1,1,1
+Carlsbad,CA,1,1,1,1,1,0,0,0
+Carmel,IN,1,1,1,0,0,0,0,1
+Carrollton,TX,0,0,0,0,0,0,0,0
+Cedar City,UT,1,0,1,1,0,0,0,0
+Cedar Hill,TX,1,1,1,1,0,1,1,1
+Cedar Park,TX,1,1,1,1,0,0,0,1
+Cedar Rapids,IA,0,1,1,1,0,0,0,0
+Ceres,CA,1,1,1,1,0,0,0,0
+Champaign,IL,1,0,1,1,0,0,0,1
+Chandler,AZ,1,0,1,1,0,0,1,1
+Chapel Hill,NC,1,1,1,1,0,1,0,1
+Charles County Sheriff,MD,1,0,1,0,0,0,1,0
+Charleston,SC,1,0,0,1,1,1,1,1
+Charlotte,NC,1,1,1,1,1,1,1,1
+Charlotte-Mecklenburg,NC,1,1,1,1,1,0,0,1
+Charlottesville,VA,1,1,1,1,1,0,0,1
+Chattanooga,TN,0,1,1,1,0,0,1,1
+Cheektowaga Town,NY,1,1,1,1,0,0,0,0
+Chesapeake,VA,0,0,1,1,0,0,0,1
+Cheshire,CT,1,1,1,1,0,1,0,1
+Chicago,IL,1,1,1,1,0,0,1,1
+Chico,CA,0,1,1,1,0,0,0,0
+Chino,CA,0,1,1,1,0,0,0,0
+Chula Vista,CA,1,1,1,1,0,0,0,0
+Cincinnati,OH,1,0,1,0,0,0,0,0
+Clarkstown,NY,1,1,0,1,0,0,0,0
+Clearwater,FL,0,1,1,1,0,1,1,1
+Cleveland,OH,1,0,1,0,1,0,0,0
+Cleveland Heights,OH,0,0,0,0,0,0,0,0
+Clifton,NJ,1,1,1,1,1,1,1,1
+College Station,TX,1,1,0,0,1,0,0,0
+Colleyville,TX,0,1,1,0,0,1,0,0
+Colorado Springs,CO,0,1,1,1,0,1,1,0
+Columbia,MO,0,1,0,0,0,0,1,1
+Columbia,SC,0,1,1,1,0,0,1,1
+Columbus,OH,1,1,1,1,0,0,0,1
+Colusa,CA,0,1,1,1,0,0,0,0
+Concord ,NH,0,0,1,1,0,1,1,1
+Concord ,NC,1,1,1,1,1,0,0,0
+Connecticut State Police ,CT,1,1,1,1,1,1,1,1
+Contra Costa,CA,0,1,0,0,0,0,1,0
+Corona,CA,0,1,1,1,0,0,0,0
+Coronado,CA,1,1,1,1,0,0,0,0
+Corpus Christi,TX,1,1,1,1,0,0,1,0
+Costa Mesa,CA,0,1,0,0,0,0,0,0
+Culver City,CA,0,1,1,1,0,0,0,0
+Cypress,CA,0,1,1,1,0,0,0,0
+Dade County,FL,0,0,0,0,0,0,0,1
+Dallas,TX,1,1,1,1,1,1,1,1
+Daly City,CA,0,1,1,1,0,0,0,0
+Davis,CA,1,1,1,1,0,1,1,1
+Dayton,OH,0,1,0,1,0,0,1,1
+De Soto,TX,1,1,1,1,0,0,0,1
+Del Norte,CA,0,1,1,1,0,0,0,0
+Delray Beach,FL,0,1,1,0,0,1,0,1
+Denver,CO,1,1,1,1,1,1,1,1
+Des Moines,IA,1,1,1,1,0,0,0,1
+Deschutes County Sheriff,OR,0,1,1,1,0,1,1,0
+Desert Hot Springs,CA,1,1,1,1,0,0,0,0
+Detroit,MI,1,1,1,1,0,1,1,1
+Dover,DE,1,1,0,0,0,0,1,1
+Dover,NH,0,1,1,1,0,0,1,1
+Downey,CA,0,1,0,0,0,0,0,0
+Duluth Police,MN,0,1,1,1,0,0,0,0
+Durham,NC,1,1,1,1,1,1,1,1
+East Palo Alto,CA,0,1,1,1,1,0,0,0
+East Providence,RI,1,1,1,1,0,1,0,0
+Edmonds,WA,1,1,1,0,0,1,1,0
+Egg Harbor,NJ,1,1,1,1,1,1,1,1
+El Cajon,CA,1,1,0,0,0,0,1,1
+El Centro,CA,1,1,1,0,0,0,0,0
+El Monte,CA,0,1,1,1,0,0,0,0
+El Paso,TX,0,0,0,1,0,0,1,1
+El Segundo,CA,1,1,1,1,0,0,0,0
+Elk Grove,CA,1,1,1,1,0,0,0,1
+Emeryville,CA,0,1,1,1,0,0,0,0
+Escondido,CA,0,1,0,1,0,1,0,0
+Eugene,OR,0,1,1,0,0,0,0,0
+Eureka,CA,0,1,1,1,0,0,0,0
+Everett,MA,1,1,1,1,0,1,1,1
+Everett,WA,1,1,1,1,0,0,1,1
+Fair Lawn,NJ,1,1,1,1,1,1,1,1
+Fairfax County,VA,1,0,1,1,0,1,0,1
+Fairfield,CA,0,1,1,1,0,0,0,0
+Faribault,MN,0,1,1,1,0,0,0,0
+Fayetteville,NC,1,0,1,0,0,0,0,1
+Fishers,IN,0,1,0,1,1,0,0,0
+Fishkill Town,NY,1,1,1,1,0,0,0,0
+Fitchburg,WI,0,1,0,1,0,1,1,1
+Flagstaff,AZ,0,0,1,1,0,1,0,1
+Folsom,CA,1,1,1,1,0,0,0,0
+Fontana,CA,0,1,1,1,0,0,0,0
+Forest Grove,OR,1,1,1,1,0,0,0,0
+Fort Collins,CO,0,1,1,0,0,0,0,0
+Fort Lauderdale,FL,0,1,0,0,0,1,0,0
+Fort Myers,FL,0,1,1,0,0,0,0,1
+Fort Wayne,IN,0,0,0,1,0,1,0,1
+Fort Worth,TX,1,1,1,1,1,0,0,1
+Foster City,CA,0,1,1,1,1,1,0,0
+Fountain Valley,CA,0,1,1,1,0,0,0,0
+Framingham,MA,1,1,1,1,1,1,1,1
+Franklin,MA,0,1,0,1,1,0,1,1
+Frederick,MD,1,1,1,0,0,1,0,0
+Fredericksburg,VA,0,1,1,0,1,0,0,0
+Fremont,CA,1,1,1,1,0,0,0,0
+Fresno,CA,1,1,1,1,1,0,0,0
+Fridley,MN,1,1,1,1,0,1,0,0
+Fullerton,CA,1,1,1,1,0,0,0,0
+Gainesville,FL,1,1,1,0,0,0,1,1
+Gaithersburg,MD,1,1,1,1,0,1,1,0
+Garden Grove,CA,0,1,0,0,0,0,0,0
+Gardena,CA,0,1,1,1,0,0,0,0
+Garland,TX,0,1,0,1,0,0,0,0
+Geneva,NY,0,1,0,0,0,0,0,0
+Gilbert,AZ,0,1,0,1,0,1,1,1
+Gilroy,CA,0,1,0,1,0,0,0,0
+Glendale,AZ,0,0,0,0,0,0,1,1
+Glendale,CA,1,1,1,1,0,0,1,1
+Goodyear,AZ,0,1,1,1,0,0,0,1
+Grand Prairie,TX,0,1,0,1,0,0,0,0
+Grand Rapids,MI,0,1,1,0,0,0,0,0
+Green Bay,WI,1,1,1,1,0,0,0,0
+Greenfield,MA,1,0,0,1,0,0,0,1
+Greenfield,CA,0,1,1,1,0,0,0,0
+Greensboro,NC,1,0,1,0,0,0,0,0
+Greenville,SC,1,0,1,1,0,0,1,1
+Greenville,TX,0,1,0,0,0,0,1,0
+Hackensack,NJ,1,1,1,1,1,1,1,1
+Hagerstown,MD,1,0,1,1,0,0,0,1
+Hamden,CT,1,1,1,1,0,1,0,1
+Harrisburg,PA,1,1,1,1,0,1,1,1
+Hartford,CT,1,1,1,1,0,1,1,1
+Hayward,CA,0,1,1,1,0,1,0,0
+Helena,MT,0,0,1,0,0,1,0,0
+Henderson,NV,1,1,1,1,0,0,1,1
+Hermosa Beach,CA,1,1,1,1,0,0,0,1
+Hialeah,FL,0,0,1,0,0,0,0,1
+Hoffman Estates,IL,0,0,1,1,0,0,1,1
+Honolulu,HI,1,1,1,1,0,1,0,1
+Horry County,SC,1,1,1,1,0,1,0,0
+Houston,TX,1,1,1,0,0,1,1,1
+Howard County,MD,1,0,1,1,0,1,0,1
+Hudson,NY,0,1,1,0,0,0,0,0
+Hudson,OH,0,0,1,1,0,0,0,0
+Humboldt,CA,0,1,1,1,0,0,0,0
+Huntington Beach,CA,0,1,1,1,0,0,0,0
+Idaho Falls,ID,1,0,1,1,0,0,0,0
+Imperial,CA,0,1,1,1,0,0,0,0
+Indianapolis,IN,1,1,1,1,0,0,0,1
+Inglewood,CA,1,1,1,1,0,0,0,0
+Inyo,CA,0,1,1,1,0,0,0,0
+Irvine,CA,1,1,1,1,0,0,0,1
+Irving,TX,0,0,0,0,0,1,0,0
+Issaquah,WA,0,0,1,1,0,0,0,1
+Ithaca,NY,1,1,0,1,0,1,0,1
+Jackson,MS,1,1,1,1,1,1,1,1
+Jacksonville,FL,0,1,0,1,0,0,0,1
+Janesville,WI,0,0,1,0,0,0,0,1
+Jersey City,NJ,1,1,1,1,1,1,1,1
+Joplin,MO,0,0,0,0,0,0,0,1
+Kalamazoo Dept. Of Public Safety,MI,0,0,1,1,0,1,0,0
+Kansas City,KS,1,1,1,1,1,1,1,1
+Kansas City,MO,0,0,0,0,0,0,0,0
+Kenosha,WI,1,1,1,1,0,0,1,1
+Kern,CA,0,1,0,0,0,0,0,0
+Killeen,TX,1,1,1,1,0,0,1,1
+King County,WA,1,1,1,1,1,1,1,1
+Kings,CA,0,1,1,1,0,0,0,1
+Kirkland,WA,1,1,1,1,0,0,1,0
+Knoxville,TN,1,0,0,1,0,0,1,0
+La Habra,CA,0,1,1,1,0,0,0,0
+Lafayette,LA,0,0,1,0,0,1,0,0
+Laguna Beach,CA,0,1,1,1,0,0,0,0
+Lake,CA,0,1,1,1,0,0,0,0
+Lakeland,FL,0,0,0,0,0,1,0,0
+Lakewood,CA,1,1,1,0,1,0,1,1
+Lakewood,NJ,1,1,1,1,1,1,1,1
+Lancaster,PA,1,0,1,1,0,1,0,1
+Lansing,MI,0,0,1,1,0,0,0,0
+Laredo,TX,0,1,0,1,0,0,1,1
+Las Vegas,NV,1,1,1,1,1,0,1,1
+Lawrence,MA,0,0,1,1,0,1,1,1
+Lexington,KY,0,0,0,0,0,1,1,1
+Lexington,MA,0,0,1,1,0,1,1,1
+Lexington,SC,1,0,1,0,0,1,0,0
+Lincoln,NE,1,1,1,1,0,1,1,1
+Lincoln ,CA,0,1,1,1,0,0,0,0
+Little Rock,AR,1,1,0,0,0,0,1,1
+Livermore,CA,1,1,1,1,0,0,0,0
+Lockhart,TX,0,0,1,1,0,0,0,0
+Lodi,CA,0,1,1,1,0,0,0,0
+Long Beach,CA,1,1,1,1,0,0,1,0
+Los Alamitos,CA,0,1,1,1,0,0,0,0
+Los Angeles,CA,1,1,1,1,1,1,1,1
+Los Angeles County Sheriff,CA,1,1,1,1,1,0,1,1
+Los Gatos,CA,0,1,1,1,0,0,0,0
+Louisville,KY,1,1,1,1,0,0,1,1
+Lower Merion,PA,1,0,0,1,0,0,1,1
+Lubbock,TX,1,0,1,1,1,0,1,1
+Lynchburg,VA,1,1,1,1,0,0,1,1
+Madera,CA,0,1,0,0,0,0,0,0
+Madison,WI,1,1,1,1,0,1,1,1
+Maine State Police,ME,1,1,1,0,0,0,0,0
+Manhattan Beach,OR,0,1,1,0,1,0,0,1
+Manteca,CA,1,1,1,1,0,0,0,1
+Maplewood,NJ,1,1,1,1,1,1,1,1
+Marana,AZ,1,0,0,1,0,0,0,1
+Maricopa,AZ,0,0,1,0,0,1,0,0
+Marin,CA,0,1,1,0,0,0,0,0
+Marquette County,MI,1,1,1,1,0,0,0,0
+Maryville,TN,1,1,1,1,0,0,0,0
+Matthews,NC,0,1,1,1,0,1,0,1
+Mcminnville,OR,1,1,1,1,0,0,0,0
+Medford,OR,1,1,1,1,0,0,0,1
+Memphis,TN,0,0,1,0,0,0,1,0
+Mendocino,CA,0,1,1,1,0,0,0,0
+Merced,CA,0,1,1,1,0,0,0,0
+Mesa,AZ,0,0,1,1,0,0,0,1
+Miami,FL,1,1,1,1,1,0,1,1
+Miami-Dade County,FL,1,1,1,1,0,0,1,1
+Middletown,CT,1,1,1,1,0,1,1,0
+Middletown,NY,0,1,0,0,0,0,0,0
+Midlothian,TX,0,0,1,0,0,0,0,0
+Milpitas,CA,0,1,1,1,0,0,0,0
+Milton,WI,0,0,0,1,0,0,1,1
+Milwaukee,WI,1,1,1,1,1,1,0,1
+Minneapolis,MN,1,1,1,1,1,1,0,1
+Missoula,MT,0,0,1,0,0,0,0,1
+Mobile,AL,0,0,0,1,0,0,1,1
+Modesto,CA,0,1,1,1,0,0,0,0
+Monterey,CA,1,1,1,1,0,0,0,0
+Monterey,CA,1,1,1,1,0,0,0,0
+Montgomery,AL,0,0,0,0,0,0,0,0
+Montgomery County,MD,1,1,1,0,0,0,0,1
+Moraga,CA,0,1,1,1,0,0,0,0
+Morgan City,LA,0,1,0,1,0,1,1,1
+Morgan Hill,CA,0,1,1,1,0,0,0,0
+Mount Pleasant,SC,1,1,1,1,0,0,0,1
+Mountain View,CA,0,1,1,1,0,0,0,0
+Murrieta,CA,0,1,1,1,0,1,0,0
+Napa,CA,0,1,1,1,0,0,0,0
+Napa County Sheriff,CA,0,1,1,1,0,0,0,0
+Nashville,TN,1,1,1,1,0,0,1,1
+Needham,MA,0,0,0,0,0,0,0,0
+Nevada,CA,0,1,0,0,0,0,0,0
+New Brighton,MN,0,1,1,0,0,0,0,0
+New Haven,CT,1,0,1,1,0,1,0,1
+New Orleans,LA,1,1,1,0,1,1,0,1
+New Port Richey,FL,0,1,0,0,0,0,0,1
+New York,NY,1,1,1,0,1,0,0,1
+Newark,NJ,1,1,1,1,1,1,1,1
+Newark,CA,1,1,1,1,0,0,0,0
+Newport Beach,CA,0,1,1,1,0,1,0,1
+Newtown,CT,1,1,1,1,0,1,0,0
+Norfolk,VA,1,0,1,0,0,0,0,1
+Norman,OK,0,0,1,1,0,0,0,1
+North Las Vegas,NV,1,1,1,1,0,0,1,0
+Norwalk,CT,1,1,1,1,0,1,1,1
+Oakland,CA,1,1,1,0,0,1,1,1
+Oceanside,CA,0,1,0,0,0,0,0,0
+Oconomowoc,WI,0,1,1,1,0,0,1,1
+Ogden,UT,0,0,1,1,0,0,0,1
+Oklahoma City,OK,1,0,0,1,1,0,1,1
+Old Bridge,NJ,1,1,1,1,1,1,1,1
+Omaha,NE,1,1,1,1,0,0,0,1
+Ontario,CA,0,1,1,1,0,0,0,0
+Orange,CA,0,1,1,1,0,0,0,0
+Orange County,FL,1,1,1,1,0,0,0,1
+Orange County Sheriff,CA,0,1,0,1,0,0,0,0
+Orem,UT,1,1,1,1,0,0,0,1
+Orlando,FL,0,0,1,0,1,0,0,1
+Ossining,NY,0,1,1,0,1,0,0,0
+Overland Park,KS,0,0,0,1,0,0,0,0
+Oxnard,CA,0,1,1,1,0,0,0,0
+Pacifica,CA,0,1,1,1,0,0,0,0
+Palm Springs,CA,0,1,1,1,0,0,0,0
+Palo Alto,CA,0,1,1,1,0,0,0,0
+Pasadena,CA,0,1,1,1,0,0,0,0
+Pasco Sheriff,FL,0,0,0,0,0,1,1,1
+Pasquotank County,NC,1,1,1,0,0,0,0,0
+Pemberton,NJ,1,1,1,1,1,1,1,1
+Petaluma,CA,1,1,1,1,0,0,0,0
+Pflugerville,TX,0,0,1,1,0,1,0,1
+Philadelphia,PA,1,1,1,1,1,0,1,1
+Phoenix,AZ,1,1,1,1,1,0,1,1
+Pine Bluff,AR,1,1,1,1,0,0,0,1
+Pinole,CA,1,1,1,1,0,0,0,0
+Piscataway,NJ,1,1,1,1,1,1,1,1
+Pittsburg,CA,0,1,1,1,0,0,0,1
+Pittsburgh,PA,1,0,0,1,0,0,0,1
+Placentia,CA,0,1,1,1,0,0,0,0
+Placer,CA,0,1,0,0,0,0,0,1
+Plano,TX,0,1,0,1,0,1,1,1
+Pleasant Hill,CA,1,1,1,1,0,0,0,0
+Pleasanton,CA,0,1,1,1,0,0,0,0
+Pomona,CA,0,1,1,1,0,0,0,0
+Portland,ME,1,1,1,1,0,0,0,0
+Portland,OR,1,1,1,1,0,1,0,1
+Prince George County,MD,1,1,1,1,1,0,0,1
+Princeton,NJ,1,1,1,1,1,1,1,1
+Providence,RI,1,1,1,1,0,1,0,1
+Raleigh,NC,0,1,1,1,0,1,1,1
+Rancho Palos Verdes,CA,0,1,1,1,0,0,0,0
+Red Wing,MN,0,1,1,1,0,0,0,1
+Redding,CA,1,1,1,1,0,0,0,1
+Redlands,CA,0,1,1,1,0,0,0,0
+Redondo Beach,CA,0,1,1,1,0,0,0,0
+Redwood City,CA,0,1,1,1,0,0,0,0
+Reno,NV,1,1,1,1,0,0,0,0
+Renton,WA,0,0,1,1,0,0,0,0
+Richmond,CA,0,1,1,1,0,0,0,0
+Richmond,VA,0,0,1,1,1,0,0,1
+Riverhead Town,NY,0,1,1,0,0,0,0,0
+Riverside,CA,1,1,1,1,0,0,0,1
+Rochester,NY,0,1,0,0,0,0,0,1
+Rock County,WI,0,1,1,0,0,0,0,0
+Rockford,IL,0,0,0,0,0,0,0,0
+Rocklin,CA,1,1,1,1,0,0,0,0
+Roseville,CA,0,1,1,1,0,0,0,0
+Roseville,MN,1,1,1,1,0,0,0,0
+Rowlett,TX,1,1,1,1,0,0,0,0
+Sacramento,CA,1,1,1,1,0,1,1,0
+Sagamore Hills,OH,0,0,1,1,0,0,0,0
+Saginaw,MI,1,1,1,1,1,0,1,1
+Salem,MA,1,0,1,0,0,0,1,1
+Salem,OR,1,1,1,1,1,1,1,1
+Salina,KS,1,1,1,1,0,1,0,1
+Salinas,CA,1,1,1,1,0,0,0,0
+Salt Lake City,UT,0,0,1,1,0,1,0,1
+San Antonio,TX,1,1,1,1,0,1,1,1
+San Bernardino,CA,1,1,1,1,0,0,0,1
+San Bernardino Sheriff,CA,0,1,1,1,0,0,0,0
+San Bruno,CA,0,1,1,1,0,0,0,0
+San Diego,CA,1,1,1,1,0,1,1,1
+San Francisco,CA,1,1,1,1,1,1,1,1
+San Jose,CA,1,1,1,1,0,1,0,1
+San Leandro,CA,1,1,1,1,0,0,0,0
+San Luis Obispo,CA,1,1,1,1,0,0,0,0
+San Marcos,TX,0,1,1,1,0,0,0,0
+San Mateo,CA,0,1,1,1,0,0,0,0
+San Ramon,CA,0,1,1,1,0,0,0,0
+Santa Ana,CA,1,1,1,1,0,0,0,1
+Santa Barbara,CA,0,1,0,1,0,1,0,0
+Santa Clara,CA,0,1,1,1,0,0,0,0
+Santa Cruz,CA,0,1,1,1,0,0,0,0
+Santa Maria,CA,0,1,0,1,0,0,0,0
+Santa Monica,CA,0,1,1,1,0,1,0,0
+Santa Rosa,CA,0,1,1,0,0,0,0,0
+Sarasota,FL,1,0,1,1,0,0,0,1
+Savage,MN,0,1,1,0,0,0,0,0
+Savannah,GA,1,1,1,1,0,1,0,1
+Sayreville,NJ,1,1,1,1,1,1,1,1
+Scottsdale,AZ,0,0,0,1,0,0,0,1
+Seal Beach,CA,0,1,1,0,0,0,0,0
+Seattle,WA,1,1,1,1,1,1,1,1
+Simi Valley,CA,0,1,1,1,0,0,0,0
+Sioux City,IA,1,1,1,0,1,0,0,1
+Skokie,IL,0,0,0,0,0,0,0,0
+Somerville,MA,1,1,1,1,0,1,0,1
+Sonoma,CA,0,1,0,1,0,0,0,0
+Sonoma County Sheriff,CA,0,1,1,1,1,0,0,0
+South Bend,IN,1,1,1,1,0,0,0,0
+South Gate,CA,0,1,1,1,0,0,0,0
+South Portland,ME,1,1,1,1,0,0,0,1
+South San Francisco,CA,0,1,1,1,0,0,0,0
+Spokane,WA,1,1,1,1,0,1,1,1
+Springfield,MO,0,0,1,1,0,0,0,1
+St. Louis,MO,1,1,1,1,1,1,1,1
+St. Louis County,MO,0,1,0,1,0,0,1,1
+St. Paul,MN,1,1,1,1,1,1,0,1
+St. Petersburg,FL,1,1,0,1,1,0,1,1
+Stanislaus,CA,0,1,1,1,0,0,0,0
+Stanislaus County Sheriff,CA,0,1,1,1,0,0,0,0
+Statesboro,GA,0,1,0,1,0,0,0,1
+Stockton,CA,1,1,1,1,0,0,1,0
+Sun Prairie,WI,0,0,1,1,0,1,1,1
+Sunnyvale,CA,0,1,1,1,0,0,0,0
+Sunrise,FL,0,1,0,1,0,0,0,0
+Surprise,AZ,1,1,1,1,0,1,0,1
+Sutter,CA,0,1,0,0,1,0,0,1
+Syracuse,NY,1,1,1,1,0,0,0,0
+Tacoma,WA,0,0,0,0,0,0,1,1
+Tallahassee,FL,0,0,1,1,0,1,0,0
+Tampa,FL,1,1,1,1,1,1,1,1
+Tempe ,AZ,1,1,1,1,1,1,1,1
+Thibodaux,LA,0,0,1,1,0,0,0,0
+Toledo,OH,0,0,0,1,0,0,0,1
+Toms River,NJ,1,1,1,1,1,1,1,1
+Tooele City,UT,0,1,1,1,0,0,0,1
+Torrance,CA,1,1,1,1,0,0,0,0
+Tracy,CA,1,1,1,1,0,0,0,0
+Tucson,AZ,1,1,1,1,1,1,1,1
+Tulare,CA,0,1,1,1,0,0,0,0
+Tulsa,OK,1,0,0,1,0,0,0,1
+Tuolumne,CA,0,1,1,1,0,0,0,0
+Turlock,CA,0,1,1,1,0,0,0,0
+Tustin,CA,0,1,1,1,0,0,0,0
+Union City,CA,1,1,1,1,0,0,0,0
+University City,MO,0,0,0,0,0,1,0,1
+Upland,CA,0,1,0,0,0,0,0,1
+Upper Darby,PA,0,0,0,1,0,0,0,1
+Upper Providence,PA,0,1,0,0,0,0,1,1
+Urbana,IL,0,0,1,1,0,0,0,0
+Vacaville,CA,0,1,1,1,0,0,0,0
+Vallejo,CA,1,1,1,1,0,0,0,0
+Ventura County,CA,1,1,1,1,0,1,0,0
+Vestal Town,NJ,0,1,1,1,0,1,0,0
+Virginia Beach,VA,1,1,1,1,0,1,0,0
+Visalia,CA,0,1,1,1,0,0,0,0
+Vista,CA,1,1,1,1,0,0,0,1
+Walla Walla,WA,0,0,1,0,0,0,0,0
+Walnut Creek,CA,0,1,1,1,0,0,0,0
+Waltham,MA,0,1,1,0,0,0,0,1
+Washington,DC,1,1,0,0,1,1,1,1
+Watauga,TX,0,1,1,0,0,0,0,1
+Waukesha,WI,0,1,0,0,0,0,0,1
+Wauwatosa,WI,0,1,1,1,0,0,1,1
+Waverly,IA,0,0,0,1,0,0,0,0
+Webster Town,NY,0,1,1,0,0,1,0,1
+West Covina,CA,1,1,1,1,0,0,0,0
+West Hartford,CT,1,1,1,1,0,1,1,1
+West Lafayette,IN,1,0,1,1,0,0,0,0
+West Orange,NJ,1,1,1,1,1,1,1,1
+West Palm Beach,FL,0,0,1,1,0,0,1,1
+West Valley,UT,1,1,1,1,0,0,0,1
+Westford,MA,1,1,1,1,1,0,0,0
+Westminster,CA,1,1,1,1,0,0,0,0
+Whittier,CA,1,1,1,0,0,0,0,0
+Wichita,KS,0,1,1,1,1,1,0,1
+Wilmington,DE,1,1,1,1,0,0,0,1
+Wilmington,NC,0,0,1,1,0,1,0,1
+Winchester,VA,1,1,1,1,1,0,0,1
+Winston-Salem,NC,1,0,0,1,0,0,0,1
+Woodinville,WA,1,1,1,1,1,1,1,1
+Worcester,MA,1,1,1,0,0,1,0,1
+Yakima,WA,0,0,1,0,0,0,0,0
+Yarmouth,ME,1,1,1,1,1,1,1,1
+Yolo,CA,0,1,1,1,0,0,0,0
+Yonkers,NY,0,1,1,1,1,1,0,1
+York City,PA,1,1,1,1,1,1,1,1
+Yuba,CA,1,1,1,1,0,0,0,0
+Zephyrhills,FL,0,0,0,0,0,1,0,0
