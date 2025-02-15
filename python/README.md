@@ -30,31 +30,33 @@ This folder contains Python-based data analysis projects demonstrating the use o
 ## 🚀 **Getting Started**
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/attaullahabbasi12/adf-coding-samples.git
-   cd adf-coding-samples/python```
+
+    ```
+    git clone https://github.com/attaullahabbasi12/adf-coding-samples.git
+    cd adf-coding-samples/python
+    ```
 
 2. **Install Required Libraries:**
-    ```bash
-    pip install pandas geopandas altair matplotlib numpy seaborn statsmodels patsy```
 
-3. **Explore the Projects:**
-    Each project has its own folder with a dedicated README.md providing more detailed documentation.
+    ```
+    pip install pandas geopandas altair matplotlib numpy seaborn statsmodels patsy
+    ```
+
+3. **Explore the Projects:**  
+    Each project has its own folder with a dedicated `README.md` providing more detailed documentation.
 
 4. **Run a Sample Script:**
-    ```bash
-    python police_use_of_force_analysis/police_use_of_force_analysis.py```
 
-## 📬 Contact
-- Author: Attaullah Abbasi
-- Email: attaullahabbasi@uchicago.edu
-- GitHub: https://github.com/attaullahabbasi12
+    ```
+    python police_use_of_force_analysis/police_use_of_force_analysis.py
+    ```
 
-- This repository showcases my Python skills in data analysis, visualization, and machine learning. Feedback is always welcome! 🙌
+---
 
+## 📬 **Contact**
 
+- **Author:** [Attaullah Abbasi](https://github.com/attaullahabbasi12)  
+- **Email:** attaullahabbasi@uchicago.edu  
+- **GitHub:** [https://github.com/attaullahabbasi12](https://github.com/attaullahabbasi12)  
 
-
-
-
-
+This repository showcases my Python skills in data analysis, visualization, and machine learning. Feedback is always welcome! 🙌
