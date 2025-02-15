@@ -45,7 +45,7 @@ from datetime import datetime
 alt.renderers.enable("default")
 
 # GitHub base URL for raw data
-github_base = "https://raw.githubusercontent.com/attaullahabbasi12/adf-coding-samples/main/data/"
+github_base = "https://raw.githubusercontent.com/attaullahabbasi12/adf-coding-samples/main/data/police_use_of_force_analysis/"
 
 # Files to download
 files = [
