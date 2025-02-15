@@ -1,8 +1,4 @@
-# Python Code Samples
-
-This folder contains Python-based data analysis projects demonstrating the use of various libraries and techniques for policy-relevant insights.
-
-## Project 1: Police Use-of-Force Analysis Across U.S. Cities
+# Police Use-of-Force Analysis Across U.S. Cities
 
 ### Overview
 This project analyzes police use-of-force incidents across U.S. cities, focusing on the relationship between policy reforms, political leanings, and demographic patterns. The analysis uses datasets on police fatalities, policy adoption, population statistics, and election results to identify key trends.
