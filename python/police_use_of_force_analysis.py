@@ -1,32 +1,32 @@
 """
 ---------------------------------------------------------------------------------
-Title: Evaluating the Impact of Policing Policies Use-of-Force Incidents Across U.S. Cities
+Title: Police Use-of-Force Analysis Across U.S. Cities
 Author: Attaullah Abbasi
 ---------------------------------------------------------------------------------
-
 Contact: attaullahabbasi@uchicago.edu | GitHub: attaullahabbasi12
+---------------------------------------------------------------------------------
 
 Project Overview:
-This project analyzes the factors driving police use-of-force incidents across U.S. cities, with a focus on policy reforms, political leanings, and demographic patterns. The analysis integrates diverse datasets, including police fatality records, city-level policy adoption data, population statistics, and election outcomes, to identify key trends and correlations.
+This Python project analyzes police use-of-force incidents across U.S. cities, focusing on policy reforms, political leanings, and demographic patterns. It integrates datasets on fatalities, policy adoption, population statistics, and election outcomes to uncover trends and correlations.
 
-The code demonstrates:
+Key Components:
 
-1. Data Cleaning & Integration:
-   - Merging datasets from multiple sources (e.g., Fatal Encounters Dataset, U.S. Census, and election data) while addressing inconsistencies in naming and formats.
+1. Data Cleaning & Integration (pandas, GeoPandas):
+   - Merging datasets from multiple sources (e.g., Fatal Encounters, U.S. Census) and resolving naming inconsistencies.
 
-2. Descriptive Analysis & Visualization:
-   - Visualizing incident counts by state, city, race, and age using Altair, Matplotlib, and GeoPandas.
+2. Descriptive Analysis & Visualization (Altair, Matplotlib):
+   - Creating charts to illustrate incident counts by state, city, race, and age.
 
-3. Policy Impact Analysis:
-   - Evaluating the effectiveness of policy reforms (e.g., chokehold bans, duty-to-intervene mandates) in reducing incidents.
+3. Policy Impact Analysis (pandas, Altair):
+   - Evaluating policy effectiveness (e.g., chokehold bans) in reducing incidents.
 
-4. Geospatial Analysis:
-   - Mapping trends geographically using GIS and shapefiles to uncover spatial disparities.
+4. Geospatial Analysis (GeoPandas, Matplotlib):
+   - Visualizing geographic trends in use-of-force incidents.
 
-5. Advanced Metrics:
-   - Calculating per capita incident rates and analyzing political leanings from historical election data.
+5. Advanced Metrics (pandas, NumPy):
+   - Calculating per capita incident rates and analyzing political leanings.
 
-This project aims to provide actionable insights for policymakers seeking to implement effective reforms and improve police-community relations.
+This code sample demonstrates core data analysis skills and the use of Python libraries for policy-relevant insights.
 ---------------------------------------------------------------------------------
 """
 
