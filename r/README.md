@@ -1,3 +1,30 @@
+# 📊 Credit Card Default Analysis
+
+### Author: Attaullah Abbasi  
+**Repository:** [GitHub - ADF Coding Samples](https://github.com/attaullahabbasi12/adf-coding-samples)  
+
+---
+
+## 🚀 Project Overview
+
+This project analyzes and models the likelihood of default among credit card clients using the **UCI Credit Card Default Dataset**. The primary objective is to predict default risk based on clients' historical payment behavior. The analysis employs data processing techniques, feature engineering, and machine learning to build a predictive model.
+
+The code is optimized for clarity, reproducibility, and efficiency, ensuring it runs in approximately **1 minute** to facilitate smooth review while demonstrating core data science practices.
+
+---
+
+## 📁 Project Structure
+
+├── data
+│   └── credit_card_default
+│       └── default_of_credit_card_clients.xls
+├── R
+│   └── credit_card_default_analysis.R
+├── Python
+│   └── sample_python_scripts/
+├── Stata
+│   └── sample_stata_scripts/
+└── README.md
 
 ---
 
